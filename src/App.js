@@ -1,6 +1,12 @@
 import TopBar from "./topbar/TopBar";
+import Header from "./header/Header";
 function App() {
-  return <TopBar />;
+  return (
+    <>
+      <TopBar />
+      <Header />
+    </>
+  );
 }
 
 export default App;
