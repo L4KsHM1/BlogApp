@@ -15,6 +15,13 @@
     justify-content:center;
     align-items: center;
 }
+.topIcon{
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    color: #444;
+   
+}
 .topImg{
     width: 40px;
     height: 40px;
