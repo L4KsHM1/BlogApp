@@ -23,4 +23,13 @@
     font-size: 12px;
     color: #222;
     font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+}
+.sidebadr>img{
+    margin-top: 15px;
+}
+.sidebar>p{
+    padding: 30px;
+
 }
