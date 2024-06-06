@@ -26,10 +26,20 @@
     line-height: 20px;
     text-align: center;
 }
-.sidebadr>img{
+.sidebarItem>img{
     margin-top: 15px;
 }
-.sidebar>p{
+.sidebarItem>p{
     padding: 30px;
 
+}
+.sidebarItem{
+    list-style: none;
+    margin-bottom: 30px;
+}
+.sidebarListItem{
+    display: inline-block;
+    width: 50%;
+    margin-top: 15px;
+    cursor: pointer;
 }
