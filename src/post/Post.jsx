@@ -13,9 +13,10 @@ export default function Post() {
                     <span className="postCat">Music</span>
                     <span className="postCat">Life</span>
                 </div>
-                <span className="postTitle">Lorem ipsum dolor, sit amet consectetur
-                     adipisicing elit. Assumenda,Lorem ipsum dolor sit amet.
-                     voluptatibus?</span>
+                <span className="postTitle">Lorem ipsum dolor</span>
+                <hr />
+                <span className="postDate">1 hour ago</span>
+            
             </div>
         </div>
     )
