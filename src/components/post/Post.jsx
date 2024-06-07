@@ -18,8 +18,11 @@ export default function Post() {
                 <span className="postDate">1 hour ago</span>
             </div>
             <p className="postDesc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, aperiam!
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum, doloremque?
+                Lorem ipsum dolor sit amet consectetur, adipisicing 
+                elit. Laboriosam recusandae nihil dolores maiores cupiditate
+                 quidem eius qui fuga, minima perspiciatis asperiores aspernatur illo quibusdam,
+                 ex ipsum doloribus dolor architecto esse. Lorem ipsum dolor sit amet consectetur
+                  adipisicing elit. Harum reprehenderit molestiae tempora ad eligendi id numquam ut optio, praesentium aspernatur doloribus cumque voluptatum vero dolores, incidunt quam fugiat natus fuga.
             </p>
         </div>
     )
