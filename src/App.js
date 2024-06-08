@@ -13,13 +13,17 @@ import {
   Link,
 } from "react-router-dom";
 function App() {
+  const user = false;
   return (
     <Router>
       <TopBar />
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* <Home /> */}
-        {/* </Route> */}
+        <Route path="/register" element={<Register />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/write" element={<Write />} />
+        <Route path="/settings" element={<Settings />} />
+        <Route path="/post/:postId" element={<Single />} />
       </Routes>
     </Router>
   );
