@@ -17,7 +17,7 @@ export default function Settings() {
             alt=""
           />
           <label htmlFor="fileInput">
-            <i className="settingsPPIcon fa-solid fa-circle-user"></i>
+            <i className="settingsPPIcon fa-regular fa-circle-user"></i>
           </label>
           <input
             type="file"
