@@ -60,3 +60,14 @@ cursor: pointer;
     border: none;
     border-bottom: 1px solid lightgray;
 }
+.settingsSubmit{
+    width:150px ;
+    align-self: center;
+    border:none;
+    border-radius: 10px;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
